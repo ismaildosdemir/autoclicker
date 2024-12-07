@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/translations"/>
+    <qresource prefix="/">
+        <file>autoclicker_tr_TR.qm</file>
+        <file>autoclicker_en_US.qm</file>
+    </qresource>
+</RCC>
