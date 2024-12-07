@@ -17,10 +17,9 @@ AutoClicker is a simple application that automates mouse clicks based on user-de
 
 ## Installation
 1. Clone the repository:
-  for the main ardupilot repo:
+	for the main ardupilot repo:
    ```bash
    git clone https://github.com/ismaildosdemir/autoclicker.git
-   
   for your fork of the ardupilot repo:
    ```bash
    git clone https://github.com/your-github-account/autoclicker.git 
